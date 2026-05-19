@@ -78,11 +78,11 @@ Microservices, event-driven systems, API design, auth (OAuth2 / JWT), observabil
 
 <div align="center">
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihassan6520&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alihassan6520&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alihassan6520&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alihassan6520&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=86400)](https://github.com/alihassan6520)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alihassan6520&theme=github-dark-blue&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alihassan6520&theme=darkhub&no-frame=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
